@@ -1,14 +1,14 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.6",
+  "version": "0.19.0",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
   "platforms": {
     "windows": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
-        "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
-        "size": 47561768
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.19.0/StarSide-Station-windows.pck",
+        "sha256": "c519f2f5f1d3ed1c8708c69d9f54fc724e921318315a5ef5c27aeabf907e8df4",
+        "size": 53408320
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
@@ -20,9 +20,9 @@
     },
     "macos": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
-        "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
-        "size": 47561768
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.19.0/StarSide-Station-windows.pck",
+        "sha256": "c519f2f5f1d3ed1c8708c69d9f54fc724e921318315a5ef5c27aeabf907e8df4",
+        "size": 53408320
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r2.zip",
@@ -37,6 +37,19 @@
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.19.0",
+      "date": "Oct 24, 2026",
+      "title": "Varo City",
+      "items": [
+        "A third world: Varo City, the gambling city. The Tide Mark's permit and the long-range drive get you there.",
+        "The Strip, the Rooftops and the Undercity, each with its own things to cut and its own vents: steam stacks leave skyglass, the Undercity's grates blow up old lucky coins.",
+        "The Lucky Orbit casino: buy chips, then play Starfall (slots), Nova (21 against Dex) and the Kin Derby. The prize counter has furniture, gear and a Kin you can't find anywhere else.",
+        "The Varo Exchange buys everything over station rates, and pays much more for what's on today's wanted board.",
+        "Ten new Kin, Director Sable, Dex and Ottoline, and Proving Ground C-1 with the Ace Mark.",
+        "New music and sounds for the city and the casino."
+      ]
+    },
     {
       "version": "0.18.6",
       "date": "Oct 24, 2026",
@@ -117,9 +130,9 @@
   ],
   "files": {
     "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
-      "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
-      "size": 47561768
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.19.0/StarSide-Station-windows.pck",
+      "sha256": "c519f2f5f1d3ed1c8708c69d9f54fc724e921318315a5ef5c27aeabf907e8df4",
+      "size": 53408320
     },
     "engine": {
       "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
