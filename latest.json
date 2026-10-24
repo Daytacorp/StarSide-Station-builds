@@ -1,14 +1,14 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
   "platforms": {
     "windows": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
-        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
-        "size": 47479224
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
+        "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
+        "size": 47479928
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
@@ -20,9 +20,9 @@
     },
     "macos": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
-        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
-        "size": 47479224
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
+        "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
+        "size": 47479928
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r1.zip",
@@ -30,27 +30,22 @@
         "size": 60590340,
         "id": "4.7.2.stable-r1"
       }
-    },
-    "linux": {
-      "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
-        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
-        "size": 47479224
-      },
-      "engine": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-linux-d9f79ab89b5ae369.zip",
-        "sha256": "2be7ecaf3188880f0e294d5f4a356ae8f3d4a41cc0bf76543e0d4534997886cc",
-        "size": 28311286,
-        "id": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63",
-        "exe_sha256": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63"
-      }
     }
   },
   "launcher": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.18.3",
+      "date": "Oct 24, 2026",
+      "title": "Bigger windows",
+      "items": [
+        "The game and launcher open at a size that suits your screen (they were tiny on high-res Mac screens). Window size has a new Auto setting.",
+        "Alt+Enter, F11 or Cmd+Ctrl+F switches fullscreen."
+      ]
+    },
     {
       "version": "0.18.2",
       "date": "Oct 24, 2026",
@@ -93,9 +88,9 @@
   ],
   "files": {
     "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
-      "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
-      "size": 47479224
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
+      "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
+      "size": 47479928
     },
     "engine": {
       "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
