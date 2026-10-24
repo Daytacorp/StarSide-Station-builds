@@ -1,13 +1,13 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.4",
+  "version": "0.18.5",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
   "platforms": {
     "windows": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
-        "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
+        "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
         "size": 47488856
       },
       "engine": {
@@ -20,8 +20,8 @@
     },
     "macos": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
-        "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
+        "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
         "size": 47488856
       },
       "engine": {
@@ -37,6 +37,15 @@
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.18.5",
+      "date": "Oct 24, 2026",
+      "title": "New Kin art",
+      "items": [
+        "All 41 Kin are redrawn: big heads and eyes, and each with its own signature look, from Haulpup's cargo crate to Sparkit's plug tail.",
+        "New battle art and new walking sprites, with idle, walk and attack frames."
+      ]
+    },
     {
       "version": "0.18.4",
       "date": "Oct 24, 2026",
@@ -97,8 +106,8 @@
   ],
   "files": {
     "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
-      "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
+      "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
       "size": 47488856
     },
     "engine": {
