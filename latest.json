@@ -1,0 +1,55 @@
+{
+  "game": "StarSide Station",
+  "version": "0.18.1",
+  "date": "2026-10-24",
+  "engine": "4.7.2.stable",
+  "files": {
+    "pck": {
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.1/StarSide-Station.pck",
+      "sha256": "a1b28d41c8f186baae2cdaf8fe7839faf198ee9aa10fd09120193e7923ab1a02",
+      "size": 47478096
+    },
+    "engine": {
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.1/StarSide-Station-engine.zip",
+      "sha256": "77a5192f6a2acc24880e48d5005f2f955da36e1e6e8e0b0d92002f2826fe5f7a",
+      "size": 37890496,
+      "exe_sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562"
+    }
+  },
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
+  },
+  "notes": [
+    {
+      "version": "0.18.1",
+      "date": "Oct 24, 2026",
+      "title": "A new front door",
+      "items": [
+        "New title screen: the gas giant turning in the sky, Ketter and Verra in orbit, ships coming and going.",
+        "Continue shows your character, day, credits and where you left off.",
+        "Save slots show your character too.",
+        "The StarSide Launcher: install once, and it keeps the game up to date."
+      ]
+    },
+    {
+      "version": "0.18.0",
+      "date": "Oct 23, 2026",
+      "title": "Verra",
+      "items": [
+        "A long-range drive for the ship opens Verra, a jungle ocean moon you can breathe on.",
+        "Lowtide Landing, the Greenwall and the Shallows to explore, and Ilo's trading post.",
+        "Proving Ground V-1, Warden Kesh and the Tide Mark."
+      ]
+    },
+    {
+      "version": "0.17.0",
+      "date": "Oct 22, 2026",
+      "title": "Ketter opened up",
+      "items": [
+        "Ketter's fields, Proving Ground K-1 and the Rime Mark.",
+        "Handler ranks and Marks on the Kin tab."
+      ]
+    }
+  ]
+}
