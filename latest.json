@@ -1,26 +1,65 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
-  "files": {
-    "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.1/StarSide-Station.pck",
-      "sha256": "a1b28d41c8f186baae2cdaf8fe7839faf198ee9aa10fd09120193e7923ab1a02",
-      "size": 47478096
+  "platforms": {
+    "windows": {
+      "pck": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
+        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
+        "size": 47479224
+      },
+      "engine": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
+        "sha256": "c255c15e9fc14a489e6775bb03ff0b07d0ed2defe7353a9cfeb832b9ad66061b",
+        "size": 37890444,
+        "id": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+        "exe_sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562"
+      }
     },
-    "engine": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.1/StarSide-Station-engine.zip",
-      "sha256": "77a5192f6a2acc24880e48d5005f2f955da36e1e6e8e0b0d92002f2826fe5f7a",
-      "size": 37890496,
-      "exe_sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562"
+    "macos": {
+      "pck": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
+        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
+        "size": 47479224
+      },
+      "engine": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r1.zip",
+        "sha256": "e1532d2d58e0078db7bc7ad3b89c9135c8f4e1f1b9614cb52fbc40b1ad975e78",
+        "size": 60590340,
+        "id": "4.7.2.stable-r1"
+      }
+    },
+    "linux": {
+      "pck": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
+        "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
+        "size": 47479224
+      },
+      "engine": {
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-linux-d9f79ab89b5ae369.zip",
+        "sha256": "2be7ecaf3188880f0e294d5f4a356ae8f3d4a41cc0bf76543e0d4534997886cc",
+        "size": 28311286,
+        "id": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63",
+        "exe_sha256": "d9f79ab89b5ae369aeed11c6052d402e8218cd503bf85b4a235f9c30c46a7c63"
+      }
     }
   },
   "launcher": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.18.2",
+      "date": "Oct 24, 2026",
+      "title": "Now on Mac",
+      "items": [
+        "The launcher and the game now run on Macs as well as Windows.",
+        "Launcher 1.1.0: Windows players get a note to grab it, but 1.0.0 keeps working."
+      ]
+    },
     {
       "version": "0.18.1",
       "date": "Oct 24, 2026",
@@ -51,5 +90,19 @@
         "Handler ranks and Marks on the Kin tab."
       ]
     }
-  ]
+  ],
+  "files": {
+    "pck": {
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.2/StarSide-Station-windows.pck",
+      "sha256": "dae2f349a91a19276ed6274cc7df29c41c970b65decf5879462cb236949bde24",
+      "size": 47479224
+    },
+    "engine": {
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
+      "sha256": "c255c15e9fc14a489e6775bb03ff0b07d0ed2defe7353a9cfeb832b9ad66061b",
+      "size": 37890444,
+      "id": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+      "exe_sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562"
+    }
+  }
 }
