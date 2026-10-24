@@ -1,14 +1,14 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.5",
+  "version": "0.18.6",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
   "platforms": {
     "windows": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
-        "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
-        "size": 47488856
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
+        "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
+        "size": 47561768
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
@@ -20,9 +20,9 @@
     },
     "macos": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
-        "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
-        "size": 47488856
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
+        "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
+        "size": 47561768
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r1.zip",
@@ -37,6 +37,17 @@
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.18.6",
+      "date": "Oct 24, 2026",
+      "title": "Verra, tidied up",
+      "items": [
+        "Verra's channels are real water now, with banks and foam.",
+        "Worn paths link Lowtide's pad, the post and the village; the Greenwall is properly walled with trees.",
+        "Ilo, Warden Kesh and Pax have portraits when they talk.",
+        "Verra's pin on the station map is no longer cut off."
+      ]
+    },
     {
       "version": "0.18.5",
       "date": "Oct 24, 2026",
@@ -106,9 +117,9 @@
   ],
   "files": {
     "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.5/StarSide-Station-windows.pck",
-      "sha256": "49612e8603b3cc73356bf46a398ae7aa69d82cb16673d30fbb5822d70ff3d751",
-      "size": 47488856
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.6/StarSide-Station-windows.pck",
+      "sha256": "d28bd63dd2d14140c4d8ad847024c33fd78d3b64d2f3bdda1b9fda468de2073d",
+      "size": 47561768
     },
     "engine": {
       "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
