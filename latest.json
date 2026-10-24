@@ -25,10 +25,10 @@
         "size": 47561768
       },
       "engine": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r1.zip",
-        "sha256": "e1532d2d58e0078db7bc7ad3b89c9135c8f4e1f1b9614cb52fbc40b1ad975e78",
-        "size": 60590340,
-        "id": "4.7.2.stable-r1"
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r2.zip",
+        "sha256": "b9effcb6eb3a23e418d5071400feda59439718c032f243d8fa6253ef0267bd00",
+        "size": 60589949,
+        "id": "4.7.2.stable-r2"
       }
     }
   },
