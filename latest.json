@@ -1,14 +1,14 @@
 {
   "game": "StarSide Station",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "date": "2026-10-24",
   "engine": "4.7.2.stable",
   "platforms": {
     "windows": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
-        "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
-        "size": 47479928
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
+        "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+        "size": 47488856
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
@@ -20,9 +20,9 @@
     },
     "macos": {
       "pck": {
-        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
-        "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
-        "size": 47479928
+        "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
+        "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+        "size": 47488856
       },
       "engine": {
         "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-macos-4.7.2.stable-r1.zip",
@@ -37,6 +37,15 @@
     "url": "https://github.com/Daytacorp/StarSide-Station-builds#readme"
   },
   "notes": [
+    {
+      "version": "0.18.4",
+      "date": "Oct 24, 2026",
+      "title": "StarSide, redrawn",
+      "items": [
+        "The title screen's station is redrawn: the spine with the hydroponics dome, solar wings, docking arms with shuttles tied up, and the big habitat ring on its spokes, lit by the sun and the giant.",
+        "Its beacons blink, windows come and go, and ships dock at the arms."
+      ]
+    },
     {
       "version": "0.18.3",
       "date": "Oct 24, 2026",
@@ -88,9 +97,9 @@
   ],
   "files": {
     "pck": {
-      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.3/StarSide-Station-windows.pck",
-      "sha256": "92fc74a64c4b2e27f734595e65864626e9daa29db724213352dc6cd52f633052",
-      "size": 47479928
+      "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/builds/0.18.4/StarSide-Station-windows.pck",
+      "sha256": "db1964ee8e8e5dd7322b68f32183634833c55d398e1555725db341c96c46bc5c",
+      "size": 47488856
     },
     "engine": {
       "url": "https://raw.githubusercontent.com/Daytacorp/StarSide-Station-builds/main/engines/StarSide-Station-engine-windows-d34d36f3be1a6c49.zip",
